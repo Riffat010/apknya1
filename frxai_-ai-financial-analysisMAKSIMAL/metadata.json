@@ -1,0 +1,8 @@
+{
+  "name": "FrxAI: AI Financial Analysis",
+  "description": "An AI-powered application that analyzes forex and stock market images to provide technical insights, sentiment analysis, and actionable trading game plans.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
